@@ -3,7 +3,7 @@
 require 'sinatra'
 require 'sinatra/activerecord'
 require './environments'
-
+require
 
 get "/" do
   erb :home
